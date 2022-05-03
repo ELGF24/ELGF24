@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Erik ELGF</h1>
 <h3 align="center">A passionate mechatronics engineer and software developer</h3>
 
+<p align="left"> <a href="https://twitter.com/backend_coder" target="blank"><img src="https://img.shields.io/twitter/follow/backend_coder?logo=twitter&style=for-the-badge" alt="backend_coder" /></a> </p>
+
 - 🔭 I’m currently working on **A data science project**
 
 - 👯 I’m looking to collaborate on **A development of a website about statistics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/backcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="backcoder" height="30" width="40" /></a>
+<a href="https://twitter.com/backend_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="backend_coder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/erik-glez-f/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erik-glez-f/" height="30" width="40" /></a>
 </p>
 
